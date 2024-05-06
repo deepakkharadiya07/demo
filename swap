@@ -7,17 +7,10 @@ class swap{
             a=sc.nextInt();
             b=sc.nextInt();
             a=a+b;
-<<<<<<< HEAD
-            b=a-b;;
-=======
             b=a-b;
->>>>>>> da8a7d98cf17fe085606fd9718cbb786bb8d9eea
             a=a-b;
             System.out.println("Swap=>");
             System.out.println("A=>"+a+"B=>"+b);
         }
-<<<<<<< HEAD
-        }
-=======
-        }
->>>>>>> da8a7d98cf17fe085606fd9718cbb786bb8d9eea
+    }
+}
